@@ -4,9 +4,7 @@ def Payment():
     print('1. Credit Card')
     print('2 .Debit Card')
     print('3 .UPI')
-
     payment_type = int(input('Enter payment option :'))
-
     if payment_type == 1:
       print('10% discount')
     elif payment_type == 2:
