@@ -13,3 +13,9 @@ def Payment():
      print('No discount')
     else:
      print('invalid option')
+
+# name = input("enter the name :")
+# if name.strip():
+#     print(name)
+# else:
+#     print("pls provide name ")
