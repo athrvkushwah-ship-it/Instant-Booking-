@@ -74,7 +74,8 @@ while True:
      print('invalid choice')
 
 
-
+def calculate_price(price, quantity):
+    return price * quantity
 
 
 
